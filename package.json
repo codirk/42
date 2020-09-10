@@ -1,0 +1,19 @@
+{
+  "name": "42",
+  "version": "1.0.0",
+  "description": "answer to the meaning of life, the universe, and everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codirk/42.git"
+  },
+  "author": "Dirk Messetat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codirk/42/issues"
+  },
+  "homepage": "https://github.com/codirk/42#readme"
+}
